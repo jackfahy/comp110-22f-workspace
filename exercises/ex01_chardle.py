@@ -33,3 +33,4 @@ if instance > 1:
     print(str(instance) + " instances of " + character + " found in " + word)
 if instance == 0:
     print("No instances of " + character + " found in " + word)
+
